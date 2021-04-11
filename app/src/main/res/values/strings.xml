@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">LibraryDatabase</string>
+    <string name="enter_the_item">ENTER THE NAME OF THE BOOK</string>
+    <string name="enter_the_name_of_item">ENTER THE NAME OF THE AUTHOR</string>
+    <string name="enter_the_qty">ENTER THE QUANTITY</string>
+    <string name="savebutton">SAVE</string>
+    <string name="BOOKDETILS">BOOK DETAILS</string>
+    <string name="bookname">ENTER THE BOOK NAME</string>
+    <string name="ask">ARE YOU SURE</string>
+    <string name="checkno">NO</string>
+    <string name="checkyes">YES</string>
+    <string name="issuetitle">ENTER THE STUDENTS DETAILS</string>
+    <string name="issue_name">enter the student name</string>
+    <string name="enter_id">enter the student id</string>
+    <string name="issue_save">SUBMIT</string>
+    <string name="returntitle">ENTER THE DETAILS</string>
+    <string name="return_name">enter the student id</string>
+    <string name="smallbookname">enter the book name</string>
+    <string name="smallenter_the_name_of_item">enter the name of the author</string>
+    <string name="enter_the_qtysmall">enter the stock</string>
+</resources>
